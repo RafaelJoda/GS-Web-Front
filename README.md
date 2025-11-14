@@ -1,4 +1,4 @@
-# 🌿 Projeto EcoFuturo — FIAP 1ESPZ
+# 🌿 Projeto Talentlab — FIAP 1ESPZ
 
 ## 🏫 Informações do Projeto
 **Curso:** Engenharia de Software  
