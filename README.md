@@ -11,6 +11,7 @@
 | --------------- | -------- |
 | **Rafael Joda** | RM561939 |
 | **Luis Miguel** | RM561232 |
+| **Matheus Kitamura** | RM563205 |
 
 
 📘 Resumo da Aplicação – Catálogo de Profissionais 
