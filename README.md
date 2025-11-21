@@ -88,10 +88,6 @@ git clone https://github.com/RafaelJoda/GS-Web-Front.git
 
 Depois entre na pasta:
 
-cd SEU-REPOSITORIO
-
-
-(Se você quiser, posso colocar aqui o comando já com o nome real do seu repositório.)
 
 ✅ 3. Instalar as dependências
 
