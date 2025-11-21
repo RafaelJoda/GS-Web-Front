@@ -61,3 +61,54 @@ Banco de dados simulado via JSON
 Responsividade total
 
 UI padronizada e minimalista
+
+✅ 1. Pré-requisitos
+
+Antes de tudo, é necessário ter instalado:
+
+✔ Node.js (versão LTS recomendada)
+
+Baixar em: https://nodejs.org
+
+✔ Git
+
+Baixar em: https://git-scm.com/downloads
+
+Você pode verificar se ambos estão instalados rodando no terminal:
+
+node -v
+git -v
+
+✅ 2. Clonar o repositório
+
+Abra o terminal e execute:
+
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+
+
+Depois entre na pasta:
+
+cd SEU-REPOSITORIO
+
+
+(Se você quiser, posso colocar aqui o comando já com o nome real do seu repositório.)
+
+✅ 3. Instalar as dependências
+
+Com o terminal na pasta do projeto, execute:
+
+npm install
+
+
+Esse comando instala todas as bibliotecas necessárias para rodar a aplicação.
+
+✅ 4. Executar o projeto em modo de desenvolvimento
+
+Logo após instalar, execute:
+
+npm run dev
+
+
+Aguarde alguns segundos até aparecer a mensagem:
+
+> Local: http://localhost:3000
