@@ -83,7 +83,7 @@ git -v
 
 Abra o terminal e execute:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/RafaelJoda/GS-Web-Front.git
 
 
 Depois entre na pasta:
